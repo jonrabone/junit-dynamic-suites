@@ -1,0 +1,10 @@
+
+                             -----------
+                        JUnit Dynamic Suites
+                             -----------
+                             -----------
+
+${project.name} (Version ${project.version})
+
+   A set of helper classes for building test suites using annotations instead of hard-coded lists of classes
+   or XML files.

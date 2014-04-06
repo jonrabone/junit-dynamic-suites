@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="junit-dynamic-suites">
+    <bannerLeft>
+        <name>JUnit Dynamic Suites</name>
+        <href>https://github.com/jonrabone/junit-dynamic-suites</href>
+    </bannerLeft>
+    <body>
+        <menu name="JUnit Dynamic Suites">
+            <item name="Introduction" href="index.html"/>
+            <item name="Release Notes" href="release-notes.html"/>
+        </menu>
+        <menu ref="reports"/>
+    </body>
+</project>

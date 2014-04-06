@@ -1,0 +1,6 @@
+BUILDING FROM GITHUB:
+=====================
+
+git clone https://github.com/jonrabone/junit-dynamic-suites.git
+cd junit-dynamic-suites
+mvn install
