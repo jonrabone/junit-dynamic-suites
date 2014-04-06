@@ -68,10 +68,9 @@ Alternatively you can just add the JAR files to your project. You will also need
 
 This project uses Scannotation for fast scanning of annotations in large projects. Unfortunately the current (1.0.3) Maven release of Scannotation does not contain a vital bug fix to handle file paths with spaces, therefore this project provides its own implementation of `org.scannotation.archiveiterator.FileProtocolIteratorFactory` as a workaround. This has been reported as issue [RESTEASY-1048](https://issues.jboss.org/browse/RESTEASY-1048) since it appears to be the JBoss RESTEasy team who uploaded it to Maven Central.
 
-
 ## API Reference
 
-Please see the [site documentation](http://jonrabone.github.io/junit-dynamic-suites).
+Please see the [API documentation](http://jonrabone.github.io/junit-dynamic-suites/apidocs/index.html).
 
 ## Tests
 
